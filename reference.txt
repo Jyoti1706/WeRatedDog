@@ -1,0 +1,4 @@
+https://media.readthedocs.org/pdf/tweepy/latest/tweepy.pdf
+https://stackoverflow.com/questions/28384588/twitter-api-get-tweets-with-specific-id
+https://seaborn.pydata.org/tutorial/categorical.html
+https://stackoverflow.com/questions/34397982/pandas-dataframe-access-multiple-items-with-not-equal-to
